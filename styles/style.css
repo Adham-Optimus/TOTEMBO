@@ -297,13 +297,13 @@ ul {
 }
 .block3__card1,
 .block3__card2 {
-  background: url(/images/lastnewsBackground1.png);
+  background: url("/images/lastnewsBackground1.png");
   width: 636px;
   height: 470px;
   position: relative;
 }
 .block3__card2 {
-  background: url(/images/lastnewsBackground2.png);
+  background: url("/images/lastnewsBackground2.png");
 }
 .block3__card-advice {
   color: #323232;
